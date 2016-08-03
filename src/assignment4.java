@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class assignment4 {
 	
-	public static void main (String args[]){
+public static void main (String args[]){
 
 		int x, y, fact=1;
 		
